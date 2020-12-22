@@ -1,2 +1,2 @@
-# graphql-basics
-A short GraphQL server project to understand the basics of working with GraphQL
+# graphql-prisma
+A short GraphQL server project to understand working with GraphQL and using Prisma as the ORM layer and working with postgreSQL
